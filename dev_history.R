@@ -25,6 +25,10 @@ library(testthat)
 
 # use_github_action_check_release()
 
+# use_r("regseq")
+# use_test("regseq")
+
+
 load_all()
 document()
 attachment::att_to_description()
@@ -32,5 +36,7 @@ use_tidy_description()
 
 spell_check()
 # spelling::update_wordlist()
+
+test()
 
 check()
