@@ -28,6 +28,10 @@ library(testthat)
 # use_r("regseq")
 # use_test("regseq")
 
+# cat(badgecreatr::badge_packageversion(), sep = "\n")
+
+use_version()
+
 
 load_all()
 document()
