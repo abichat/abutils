@@ -22,7 +22,7 @@ version <- gsub('-', '.', version)
 
 <!-- badges: start -->
 [![license](https://img.shields.io/badge/license-GPL--3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![packageversion](https://img.shields.io/badge/version-`r version`-orange.svg)](commits/master)
+[![packageversion](https://img.shields.io/badge/package%20version-`r version`-orange.svg)](commits/master)
 ![](https://img.shields.io/github/last-commit/abichat/abutils.svg)
 [![R build status](https://github.com/abichat/abutils/workflows/R-CMD-check/badge.svg)](https://github.com/abichat/abutils/actions)
 <!-- badges: end -->

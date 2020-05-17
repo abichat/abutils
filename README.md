@@ -6,7 +6,7 @@
 <!-- badges: start -->
 
 [![license](https://img.shields.io/badge/license-GPL--3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![packageversion](https://img.shields.io/badge/version-0.0.0.9000-orange.svg)](commits/master)
+[![packageversion](https://img.shields.io/badge/package%20version-0.1.0-orange.svg)](commits/master)
 ![](https://img.shields.io/github/last-commit/abichat/abutils.svg) [![R
 build
 status](https://github.com/abichat/abutils/workflows/R-CMD-check/badge.svg)](https://github.com/abichat/abutils/actions)
