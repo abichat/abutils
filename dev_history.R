@@ -23,6 +23,8 @@ library(testthat)
 
 # use_test("packages")
 
+# use_github_action_check_release()
+
 load_all()
 document()
 attachment::att_to_description()
