@@ -24,4 +24,7 @@ document()
 attachment::att_to_description()
 use_tidy_description()
 
+spell_check()
+# spelling::update_wordlist()
+
 check()
