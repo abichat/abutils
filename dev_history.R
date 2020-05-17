@@ -30,8 +30,9 @@ library(testthat)
 
 # cat(badgecreatr::badge_packageversion(), sep = "\n")
 
-use_version()
+# use_version()
 
+# use_news_md()
 
 load_all()
 document()
