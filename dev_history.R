@@ -9,7 +9,14 @@ library(usethis)
 
 # use_r("packages")
 
-use_git()
+# use_git()
+
+# use_github()
+
+# use_readme_rmd()
+
+# badger::badge_last_commit()
+# badgecreatr::badge_license()
 
 
 load_all()

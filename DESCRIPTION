@@ -9,6 +9,8 @@ Authors@R:
            comment = c(ORCID = "0000-0001-6599-7081"))
 Description: Provides miscellaneous functions.
 License: GPL-3
+URL: https://github.com/abichat/abutils
+BugReports: https://github.com/abichat/abutils/issues
 Imports: 
     dplyr,
     janitor,
@@ -23,5 +25,3 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0
-URL: https://github.com/abichat/abutils
-BugReports: https://github.com/abichat/abutils/issues
