@@ -40,3 +40,5 @@ spell_check()
 test()
 
 check()
+
+goodpractice::goodpractice()
