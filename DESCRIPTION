@@ -21,6 +21,8 @@ Imports:
     tibble,
     tidyr,
     utils
+Suggests: 
+    testthat
 Encoding: UTF-8
 Language: en-US
 LazyData: true

@@ -1,5 +1,6 @@
 library(devtools)
 library(usethis)
+library(testthat)
 
 # use_build_ignore("dev_history.R")
 
@@ -18,6 +19,9 @@ library(usethis)
 # badger::badge_last_commit()
 # badgecreatr::badge_license()
 
+# use_testthat()
+
+# use_test("packages")
 
 load_all()
 document()
